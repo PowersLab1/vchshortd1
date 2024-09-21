@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8b8462a389434f8322e9",
-    "url": "/vchshortd1/static/css/main.6f7d6855.chunk.css"
+    "revision": "46def49fea544881c99f",
+    "url": "/vchshortd1/static/css/main.9096df9d.chunk.css"
   },
   {
-    "revision": "8b8462a389434f8322e9",
-    "url": "/vchshortd1/static/js/main.9f1306fa.chunk.js"
+    "revision": "46def49fea544881c99f",
+    "url": "/vchshortd1/static/js/main.cdbeef7d.chunk.js"
   },
   {
     "revision": "4ed27f093d9f13d64f85",
     "url": "/vchshortd1/static/js/runtime~main.01598448.js"
   },
   {
-    "revision": "6b1af774679cd861d3d0",
-    "url": "/vchshortd1/static/js/2.da8b4196.chunk.js"
+    "revision": "a91929532a13e529b474",
+    "url": "/vchshortd1/static/js/2.45f3319e.chunk.js"
   },
   {
     "revision": "6956dbda0015b26b8daac462ec922ef5",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/vchshortd1/static/media/rating_keydown_5.ae6e6c1f.png"
   },
   {
-    "revision": "a952a341314086d99342ae5cf0ca58ae",
+    "revision": "79cd7c1c02f770764185b1072dbf8a7c",
     "url": "/vchshortd1/index.html"
   }
 ];
