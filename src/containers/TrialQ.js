@@ -22,11 +22,11 @@ class TrialQ extends Component {
 
     // Initializing QUEST
     // NOTE: Modify your quest parameters here!
-    let tGuess1 = Math.log10(0.23),
-      tGuess2 = Math.log10(0.23),
-      tGuessSd = 0.1,
+    let tGuess1 = -1.08, //Math.log10(0.23), changed for mturk to make harder
+      tGuess2 = -1.08, //Math.log10(0.23), changed for mturk to make harder
+      tGuessSd = 0.05,
       pThreshold = 0.75,
-      beta = 12.25,
+      beta = 2,
       delta = 0.01,
       gamma = 0.01,
       grain = 0.001,
