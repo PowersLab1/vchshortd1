@@ -22,11 +22,11 @@ class TrialQ extends Component {
 
     // Initializing QUEST
     // NOTE: Modify your quest parameters here!
-    let tGuess1 = -1.08, //Math.log10(0.23), changed for mturk to make harder
+    let tGuess1 = -0.85, // used to be Math.log10(0.23), changed for mturk to make harder -- but then 1.08 made the lines disappear?
       // tGuess2 = -1.08, //Math.log10(0.23), changed for mturk to make harder
       // tGuessSd = 0.05,
-      tGuess2 = -1.08, //Math.log10(0.23), changed for mturk to make harder
-      tGuessSd = 0.1,
+      tGuess2 = -0.85, /// used to be Math.log10(0.23), changed for mturk to make harder -- but then 1.08 made the lines disappear?
+      tGuessSd = 0.05, //originally 0.1 -- change to 0.05 to make harder
       pThreshold = 0.75,
       beta = 2,
       delta = 0.01,
